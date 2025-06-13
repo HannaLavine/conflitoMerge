@@ -1,2 +1,5 @@
 # conflitoMerge
+<<<<<<< HEAD
 #teste
+=======
+>>>>>>> conflitoMerge
